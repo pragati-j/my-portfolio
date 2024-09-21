@@ -1,0 +1,186 @@
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} */
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+.kanit-regular {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.App-header {
+  position: static;
+  text-align: center;
+  /* background-color: #C0CED1; */
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  /* color: black; */
+}
+
+.App-link {
+  /* color: #61dafb; */
+}
+
+#my-photo{
+  position: absolute;
+  left:0;
+  bottom: 0px;
+  height: 90%;
+  width: 40%;
+  
+  float: left;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.navigation-bar{
+  position: absolute;
+  top: 0;
+  left:0;
+  padding-right: 10px;
+  width: 100%;
+  height: 10%;
+  display: flex;
+  /* background-color: #071C34; */
+  justify-content: flex-end;
+  align-items: end;
+  gap: 12px;
+  text-decoration:"None"
+}
+
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  padding: 20px;
+  text-align: start;
+  max-width: 750px;
+  margin: 0 10px; /* Center the container on the page */
+}
+
+.vertical-line {
+  width: 2px;
+  background-color: rgb(42, 122, 80);
+  height: 220px; /* Full height of the container */
+  border: 0.5px solid rgb(42, 122, 80);
+  margin-right: 20px; /* Space between the line and the text */
+  float: left;
+}
+
+.text-content p {
+  margin: 10px 0; /* Space between paragraphs */
+  /* color: white; Darker text color */
+  line-height: 1.6; /* Improved readability */
+  font-size: 25px;
+}
+
+
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: white; }
+}
+
+.name-write{
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 2px solid white; /* Cursor effect */
+  display: inline-block;
+  animation: blink-caret 0.75s step-end infinite;
+}
+
+.project-container{
+  display: grid;
+  justify-content: space-around;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  gap: 20px;
+  height: 500px;
+  width: 100%;
+  margin: 20px 30px;
+}
+.project-card{
+  width: 400px;
+  height: 90%;
+  
+  background-color: whitesmoke;
+  /* padding: 10px; */
+  /* border: 1px solid #61dafb; */
+}
+.project-img{
+  width: 99%;
+  height: 70%;
+  border:2px solid black;
+}
+
+.project-container h2{
+  font-size: 24px;
+}
+
+.project-container p{
+  font-size: 20px;
+}
+
+.project-text{
+  padding: 10px 10px;
+}
+
+
+.experience-page{
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+}
+
+.experience-navbar{
+  margin:20px;
+  display: grid;
+  grid-template-rows: 100px 100px 100px 100px;
+  grid-template-columns: 30% 35% 35%;
+  row-gap: 10px;
+  align-items: center;
+  height: 100%;
+}
+.experience-content{
+  margin: 20px 0px;
+  padding: 0px 10px;
+  grid-area: 1/2/5/4;
+  background-color: black;
+  height: 100%;
+}
+
+.skills-container img{
+  height: 30px;
+  width: 30px;
+  padding: 0px 5px;
+}
+
+
+li.thumb.selected{
+  height: 50px;
+  width: 90px;
+}
+
+.slide>div img{
+  height: 650px;
+  width: 317px;
+  padding: 20px 200px;
+  align-items: center;
+}
+.exp-carousel{
+  /* height: 600px; */
+  /* width: 750px; */
+}
