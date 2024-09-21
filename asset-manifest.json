@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.abf09f62.css",
-    "main.js": "/my-portfolio/static/js/main.8f48b414.js",
+    "main.js": "/my-portfolio/static/js/main.2000fdad.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/pragati.jpg": "/my-portfolio/static/media/pragati.7f9d69657a8a7a4514b6.jpg",
     "static/media/mess-manager.png": "/my-portfolio/static/media/mess-manager.3d0025fcca165ccf2fdc.png",
     "static/media/CV.pdf": "/my-portfolio/static/media/CV.ab5ccaaf852878b40895.pdf",
     "static/media/axis.png": "/my-portfolio/static/media/axis.d3bae8947188d4ba74b0.png",
     "static/media/Experience1.png": "/my-portfolio/static/media/Experience1.e47e87978b2589ecec31.png",
     "static/media/marktech.png": "/my-portfolio/static/media/marktech.b426e3ce4a541b8bd3b4.png",
-    "static/media/pragati.jpeg": "/my-portfolio/static/media/pragati.0f841ddeb0a3ba02ee1a.jpeg",
     "static/media/python.png": "/my-portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
     "static/media/java.png": "/my-portfolio/static/media/java.ddf8676bd569fe01ab44.png",
     "static/media/node-js.png": "/my-portfolio/static/media/node-js.e328955d6bbbf3ebc72b.png",
@@ -28,11 +28,11 @@
     "static/media/envelope-open-fill.svg": "/my-portfolio/static/media/envelope-open-fill.a3769dcdaa48e998888cd1a27e1c349b.svg",
     "static/media/award-fill.svg": "/my-portfolio/static/media/award-fill.f1a749a615b992fd0507af2f27e6c4ae.svg",
     "main.abf09f62.css.map": "/my-portfolio/static/css/main.abf09f62.css.map",
-    "main.8f48b414.js.map": "/my-portfolio/static/js/main.8f48b414.js.map",
+    "main.2000fdad.js.map": "/my-portfolio/static/js/main.2000fdad.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abf09f62.css",
-    "static/js/main.8f48b414.js"
+    "static/js/main.2000fdad.js"
   ]
 }
