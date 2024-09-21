@@ -2,7 +2,7 @@ import React from "react";
 import Name from "./Name";
 import Navigation from "./Navigation";
 import Bio from "./Bio";
-import photo from "../pragati.jpeg";
+import photo from "../pragati.jpg";
 
 function Home(){
     return (

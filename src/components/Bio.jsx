@@ -1,5 +1,5 @@
 import React from "react";
-import photo from '../pragati.jpeg'
+import photo from '../pragati.jpg'
 import CV from "../CV.pdf"
 function Bio() {
     return (
