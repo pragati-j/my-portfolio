@@ -63,11 +63,10 @@ function Home(){
             <div class="home__data">
               <h1 class="home__title">Hi, I'm Pragati Jhunjhunwala</h1>
               <h3 class="home__subtitle">
-                Management Trainee at ICICI Bank
+                Product Manager at ICICI Bank
               </h3>
               <p class="home__description">
-                I joined ICICI Bank in June 2024. I am a part of the 
-                <strong> Interent Banking Team </strong> where I handle backend API call and UI of the platform.
+                Product Manager with experience in building scalable fintech products, driving data-driven decisions, and improving digital payment experiences for millions of users.
               </p>
               <a href="#contact" class="button button--flex">
                 Contact me<i class="uil uil-message button__icon"></i>
