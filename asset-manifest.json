@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.661a621d.css",
-    "main.js": "/my-portfolio/static/js/main.37e355b2.js",
+    "main.css": "/my-portfolio/static/css/main.abf09f62.css",
+    "main.js": "/my-portfolio/static/js/main.c44a7aa6.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/pragati.jpg": "/my-portfolio/static/media/pragati.7f9d69657a8a7a4514b6.jpg",
     "static/media/mess-manager.png": "/my-portfolio/static/media/mess-manager.3d0025fcca165ccf2fdc.png",
-    "static/media/CV.pdf": "/my-portfolio/static/media/CV.ab5ccaaf852878b40895.pdf",
+    "static/media/CV.pdf": "/my-portfolio/static/media/CV.240cf0f6f6e2a3dcae47.pdf",
     "static/media/axis.png": "/my-portfolio/static/media/axis.d3bae8947188d4ba74b0.png",
     "static/media/Experience1.png": "/my-portfolio/static/media/Experience1.e47e87978b2589ecec31.png",
     "static/media/marktech.png": "/my-portfolio/static/media/marktech.b426e3ce4a541b8bd3b4.png",
@@ -24,15 +24,15 @@
     "static/media/web.png": "/my-portfolio/static/media/web.dc407c532bab5d443ddc.png",
     "static/media/react.svg": "/my-portfolio/static/media/react.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/my-portfolio/index.html",
-    "static/media/book-fill.svg": "/my-portfolio/static/media/book-fill.387591868b2b752beca4520e46795699.svg",
-    "static/media/envelope-open-fill.svg": "/my-portfolio/static/media/envelope-open-fill.a3769dcdaa48e998888cd1a27e1c349b.svg",
-    "static/media/award-fill.svg": "/my-portfolio/static/media/award-fill.f1a749a615b992fd0507af2f27e6c4ae.svg",
-    "main.661a621d.css.map": "/my-portfolio/static/css/main.661a621d.css.map",
-    "main.37e355b2.js.map": "/my-portfolio/static/js/main.37e355b2.js.map",
+    "static/media/book-fill.svg": "/my-portfolio/static/media/book-fill.8a12cfc1383773baeee23da991334db7.svg",
+    "static/media/envelope-open-fill.svg": "/my-portfolio/static/media/envelope-open-fill.68e692e8bf7a26aa790f9a5c7409959f.svg",
+    "static/media/award-fill.svg": "/my-portfolio/static/media/award-fill.4d67bf1ed4dc7be66c5308d91ba9ce4d.svg",
+    "main.abf09f62.css.map": "/my-portfolio/static/css/main.abf09f62.css.map",
+    "main.c44a7aa6.js.map": "/my-portfolio/static/js/main.c44a7aa6.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.661a621d.css",
-    "static/js/main.37e355b2.js"
+    "static/css/main.abf09f62.css",
+    "static/js/main.c44a7aa6.js"
   ]
 }
