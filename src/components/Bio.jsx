@@ -12,7 +12,7 @@ function Bio() {
 
           <div class="about__data">
             <p class="about__description">
-              I completed my Bachelors from IIT Kharagpur in 2024. I am passionate about technology and an avid reader. I have a self-motivated and can-do attitude, thriving in challenging and dynamic environments. Seeking for Software Developmet or Web Development roles to enhance my skills and contribute to a professional organization.
+            I’m a Product Manager at ICICI Bank, passionate about building scalable, user-focused digital products that connect technology with real business impact. At ICICI, I’ve led key initiatives like revamping the Net Banking Payment Gateway and implementing Adobe Analytics and Offer Decisioning, improving real-time personalization, payment reliability, and customer engagement for millions of users.  
             </p>
 
             <div class="about__info">
